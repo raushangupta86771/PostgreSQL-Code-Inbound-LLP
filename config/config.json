@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "raushan",
+    "password": "raushan@123",
+    "database": "raushan",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "raushan",
+    "password": "raushan@123",
+    "database": "raushan",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "raushan",
+    "password": "raushan@123",
+    "database": "raushan",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
